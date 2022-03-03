@@ -1,2 +1,6 @@
-# Analysis-of-the-development-of-the-coronavirus-epidemic
+# Advanced ML: Домашнее задание 1
+
+Данная работа выполнена в качестве домашнего задания по курсу Advanced Machine Learning в академии больших данных MADE. В работе проведен анализ скорости распространения коронавирусной инфекции в России в разные периоды развития пандемии.
+
+Источник данных: https://ourworldindata.org/coronavirus-source-data
  
